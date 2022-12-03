@@ -1,7 +1,7 @@
 <!-- Heading -->
 
 <p align="center">
-  <a href="https://muhimahi.com/" target="blank">
+  <a href="https://muhimahi.com/" target="_blank" rel="noopener">
     <img width="600" src="https://user-images.githubusercontent.com/63067849/205404549-31ecaedb-a11d-4a7d-8ea3-ae9ac408f1ba.png" alt="muhimahi.com">
   </a>
 </p>
