@@ -36,15 +36,13 @@
 </p>
 
 <!-- Header Text -->
-<p>
-  <h2 align="center">
-    <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Fellow being! I'm Muhi Mahi | মুহি মাহি
-    </h2>
-    
+<div align="center">
+  <h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Fellow being! I'm Muhi Mahi | মুহি মাহি</h3> 
   <b>🤖 A multi-learner on growing IT; Programmer and Full-stack web developer also have mastery on WordPress, SEO, Server & Hosting and a mentor…</b>
-</p>
+</div>
 
-<p >
+<br>
+
 <table><tr><td valign="top" width="33%">
 
 ### 🧿 UI UX  
@@ -143,13 +141,11 @@
 </td></tr></table>  
 </p>
 
-
- 
 <p align="center" margin="25px">
-      <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=muhimahi&show_icons=true&count_private=true&hide_border=true" /> 
             <a href="https://www.buymeacoffee.com/muhimahi" target="_blank" style="display: inline-block;">
                 <img width="300" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat&logo=buymeacoffee" align="center"/>
-            </a></p>
+            </a>
+</p>
 
 <!---
 - 👋 Hi, I’m @muhimahi
@@ -161,4 +157,5 @@
 muhimahi/muhimahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://user-images.githubusercontent.com/63067849/205388168-7355e795-506b-42da-9ffc-19844d9c1c8b.png
+<img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=muhimahi&show_icons=true&count_private=true&hide_border=true" /> 
 --->
