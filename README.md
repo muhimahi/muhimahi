@@ -143,7 +143,7 @@
 
 <p align="center" margin="25px">
             <a href="https://www.buymeacoffee.com/muhimahi" target="_blank" style="display: inline-block;">
-                <img width="300" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat&logo=buymeacoffee" align="center"/>
+                <img width="300" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Pizza-orange.svg?style=flat&logo=buymeacoffee" align="center"/>
             </a>
 </p>
 
