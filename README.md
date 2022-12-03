@@ -1,6 +1,9 @@
 <!-- Heading -->
+
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/63067849/205404549-31ecaedb-a11d-4a7d-8ea3-ae9ac408f1ba.png" alt="isrealodejobi">
+  <a href="https://muhimahi.com/" target="_blank">
+    <img width="600" src="https://user-images.githubusercontent.com/63067849/205404549-31ecaedb-a11d-4a7d-8ea3-ae9ac408f1ba.png" alt="isrealodejobi">
+  </a>
 </p>
 
 <!-- important links -->
@@ -8,7 +11,9 @@
   <!-- Profile Views -->
   <img width="" src="https://komarev.com/ghpvc/?username=muhimahi&style=flat">
   <!-- Muhi Mahi's Facebook link -->
+  <a href="https://www.facebook.com/muhimahibd" target="_blank">
   <img width="" src="https://img.shields.io/badge/-Muhi%20Maahi%20-1001?logo=facebook&style=flat&labelColor=white&color=blue&link=https://www.facebook.com/muhimahibd">
+  </a>
   <!-- Muhi Mahi's instagram link -->
   <img width="" src="https://img.shields.io/badge/-Muhi%20Maahi%20-1001?logo=Muhi Mahi's Facebook link&style=flat&labelColor=white&color=pink&link=https://www.instagram.com/muhimahibd">
   <!-- Muhi Mahi's telegram link -->
