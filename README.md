@@ -1,5 +1,5 @@
-<!-- Hero -->
 
+<!-- Hero -->
 <p align="center">
   <a href="https://muhimahi.com/" target="_blank" rel="noopener">
     <img width="600" src="https://user-images.githubusercontent.com/63067849/205404549-31ecaedb-a11d-4a7d-8ea3-ae9ac408f1ba.png" title="muhimahi.com" 
@@ -38,10 +38,9 @@
 <!-- Header Text -->
 <div align="center">
   <h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Fellow being! I'm Muhi Mahi | মুহি মাহি</h3> 
-  <b>🤖 A multi-learner on growing IT; Programmer and Full-stack web developer also have mastery on WordPress, SEO, Server & Hosting and a mentor…</b>
+  
+  🤖 A multi-learner on growing IT; Programmer and Full-stack web developer also have mastery on WordPress, SEO, Server & Hosting and a mentor…
 </div>
-
-<br>
 
 <table><tr><td valign="top" width="33%">
 
@@ -143,7 +142,7 @@
 
 <p align="center" margin="25px">
             <a href="https://www.buymeacoffee.com/muhimahi" target="_blank" style="display: inline-block;">
-                <img width="300" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Pizza-orange.svg?style=flat&logo=buymeacoffee" align="center"/>
+                <img width="200" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Pizza-orange.svg?style=flat&logo=buymeacoffee" align="center"/>
             </a>
 </p>
 
