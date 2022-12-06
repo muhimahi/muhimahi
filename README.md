@@ -140,11 +140,12 @@
 </td></tr></table>  
 </p>
 
-<p align="center" margin="25px">
-            <a href="https://www.buymeacoffee.com/muhimahi" target="_blank" style="display: inline-block;">
-                <img width="200" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Pizza-orange.svg?style=flat&logo=buymeacoffee" align="center"/>
-            </a>
+<p align="center">
+   <a href="https://www.buymeacoffee.com/muhimahi">
+     <img width="250" src="https://img.buymeacoffee.com/button-api/?text=Buy muhimahi a pizza&emoji=🍕&slug=muhimahi&button_colour=26f776&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
+   </a>
 </p>
+
 
 <!---
 - 👋 Hi, I’m @muhimahi.
@@ -157,4 +158,7 @@ muhimahi/muhimahi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 https://user-images.githubusercontent.com/63067849/205388168-7355e795-506b-42da-9ffc-19844d9c1c8b.png
 <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=muhimahi&show_icons=true&count_private=true&hide_border=true" /> 
+            <a href="https://www.buymeacoffee.com/muhimahi" target="_blank" style="display: inline-block;">
+                <img width="200" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Pizza-orange.svg?style=flat&logo=buymeacoffee" align="center"/>
+            </a>
 --->
